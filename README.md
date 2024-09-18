@@ -9,7 +9,7 @@ Estou em transição de carreira e busco a cada dia aprimorar meus conhecimentos
 *   🌍  Atualmente moro em Santa Tereza do Oeste - Paraná - Brasil
 *   ✉️  Entre em contato comigo em [danieltiozo@hotmail.com](mailto:danieltiozo@hotmail.com)
 *   🧠  Estou me aprofundando nos estudos com o framework ReactJS
-*   ⚡  Finalmente encontrei uma linguagem que me identifiquei e estou gostando muito de me aprofundar, cada dia uma nova descoberta, desejo muito utilizar esse conhecimento em uma empresa com desenvolvimento que ajuda as pessoas.
+*   ⚡  Encontrei uma área que me identifiquei e estou gostando muito de me aprofundar nos estudos e dessenvolver projetos a cada dia uma nova descoberta, desejo muito utilizar esse conhecimento em desenvolvimento de projetos que tragam inovação e façam a diferença.
 
 ### Skills 
 <p align="left">
